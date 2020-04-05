@@ -4,7 +4,7 @@
 @startuml
 读者 -- 借书记录
 读者 -- 预定记录
-图书管理员 -- 借书记录
+馆藏资源品种 -- 图书管理员
 逾期记录 -- 借书记录
 逾期记录 -- 罚款细则
 预定记录-- 馆藏资源品种
@@ -34,9 +34,11 @@
 @enduml
 
 ```
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200405220726592.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDAwNTEzMg==,size_16,color_FFFFFF,t_70)
+
 
 1.2. 类图如下：
-![在这里插入图片描述](https://img-blog.csdnimg.cn/2020040521101073.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDAwNTEzMg==,size_16,color_FFFFFF,t_70)
+
 
 **2. 图书管理系统的对象图**
 2.1 类读者的对象图
