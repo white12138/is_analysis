@@ -99,4 +99,6 @@ object  馆藏资源品种
 @enduml
 ```
 对象图如下
+
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200405213630979.png)
