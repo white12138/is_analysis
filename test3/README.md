@@ -34,11 +34,12 @@
 @enduml
 
 ```
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200405220726592.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDAwNTEzMg==,size_16,color_FFFFFF,t_70)
 
 
 1.2. 类图如下：
 
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200405221008838.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDAwNTEzMg==,size_16,color_FFFFFF,t_70)
 
 **2. 图书管理系统的对象图**
 2.1 类读者的对象图
