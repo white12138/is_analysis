@@ -15,9 +15,13 @@
 借书记录表
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200427095738471.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDAwNTEzMg==,size_16,color_FFFFFF,t_70)
+
+
 **2. 界面设计**
+
      [界面设计](https://white12138.github.io/is_analysis_pages/start.html)
      https://white12138.github.io/is_analysis_pages/start.htmlstart
+     
 2.1登陆界面
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200427101643227.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDAwNTEzMg==,size_16,color_FFFFFF,t_70)
