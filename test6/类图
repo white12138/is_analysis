@@ -1,0 +1,26 @@
+@startuml
+
+user <|- student
+user <|-- teacher
+student "1" -- "n"  grade
+test "1" -- "n"  grade
+user : user-id
+user : password
+user : github_username
+student : student-id
+student : student-name
+student : student-id
+student : major
+student : class
+student : test-web
+teacher : teacher-id
+teacher : teacher-name
+teacher : subject
+grade : grade
+grade : comment
+grade : update_date
+test : test-id
+test : test-name
+
+
+@enduml
