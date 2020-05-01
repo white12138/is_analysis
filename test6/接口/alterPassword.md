@@ -1,4 +1,4 @@
-# 接口：alterPassword  
+##接口：alterPassword  
 - 功能：
     修改用户的密码。
     
