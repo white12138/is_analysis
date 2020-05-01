@@ -1,0 +1,20 @@
+@startuml
+actor teacher
+actor student
+actor user
+teacher --> user
+student --> user
+package 用户用例集 {
+ user --> (忘记密码)
+ user --> (修改github名字)
+ user --> (查看用户信息)
+ user --> (登陆)
+ }
+ package 功能用例集 {
+teacher ---> (评定成绩)
+teacher ---> (学生列表)
+student ---> (学生列表)
+student ---> (查看成绩)
+}
+
+@enduml
