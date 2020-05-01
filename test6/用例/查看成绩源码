@@ -1,0 +1,6 @@
+@startuml
+actor student
+student -> grade: 查看成绩和评语
+grade -> test
+test --> student:返回成绩和评语
+@enduml
