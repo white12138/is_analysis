@@ -1,9 +1,9 @@
-# 接口：getNextPrevStudent 
+# 接口：getNextStudent 
 - 功能：
     返回一个学生的上一个或者下一个学生的学号。 
     
 - API请求地址： 
-    接口基本地址/v1/api/getNextPrevStudent/<is_next>/<student_id>
+    接口基本地址/v1/api/getNextStudent/<is_next>/<student_id>
 
 - 请求方式 ：
     GET
