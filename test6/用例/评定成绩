@@ -1,0 +1,6 @@
+@startuml
+actor teacher
+teacher -> student : 选择学生
+student -> grade:  提交成绩
+grade -> test: 对应实验
+@enduml
