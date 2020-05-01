@@ -1,0 +1,7 @@
+@startuml
+actor user
+user -> student: 查看所有学生列表
+student -> grade
+grade -> test
+test -> user:每个学生的信息、及每个实验的成绩
+@enduml
